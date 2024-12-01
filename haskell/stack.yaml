@@ -1,0 +1,9 @@
+resolver:
+  url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/22/43.yaml
+packages:
+  - .
+extra-deps: []
+notify-if-nix-on-path: false
+nix:
+  enable: false
+system-ghc: false

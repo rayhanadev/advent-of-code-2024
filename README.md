@@ -1,15 +1,10 @@
-# advent-of-code-2024
+# Advent of Code 2024 🎄
 
-To install dependencies:
+These are my solutions to the [Advent of Code 2024](https://adventofcode.com/) puzzles.
+I will be using [Bun](https://bun.sh) (Typescript) to solve these puzzles, and I will
+be reimplementing the solutions in parallel in Haskell.
 
-```bash
-bun install
-```
+## Solutions
 
-To run:
-
-```bash
-bun run src/index.ts
-```
-
-This project was created using `bun init` in bun v1.1.36. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+- TypeScript: [typescript/](typescript/README.md)
+- Haskell: [haskell/](haskell/README.md)
