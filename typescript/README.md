@@ -14,7 +14,7 @@ You will be prompted to enter the day and part you want to run.
 
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
-| [Day 1](src/day01) | [🌟](src/day-01/part-1.ts) | [🌟](src/day-01/part-2.ts) |
+| [Day 1](src/day01) | 🌟 | 🌟 |
 | Day 2 | | |
 | Day 3 | | |
 | Day 4 | | |
