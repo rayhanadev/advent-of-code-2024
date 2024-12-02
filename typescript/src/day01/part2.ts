@@ -5,7 +5,7 @@ export async function part2(input: string) {
   const listRight: number[] = [];
 
   for (let i = 0; i < lines.length; i++) {
-    const [left, right] = lines[i].split("   ").map((n) => Number.parseInt(n));
+    const [left, right] = lines[i].split("   ").map(Number);
 
     listLeft.push(left);
     listRight.push(right);
