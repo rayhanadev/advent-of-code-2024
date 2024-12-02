@@ -2,6 +2,7 @@ module Main where
 
 import System.Environment (getArgs)
 import qualified Day01
+import qualified Day02
 
 main :: IO ()
 main = do
@@ -12,4 +13,5 @@ main = do
 
 runDay :: String -> IO ()
 runDay "1" = Day01.run
+runDay "2" = Day02.run
 runDay _   = putStrLn "Invalid day. Please specify a valid day (e.g., 1, 2)."

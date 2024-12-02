@@ -13,7 +13,7 @@ extra-source-files:
 executable advent-of-code
   main-is:             Main.hs
   hs-source-dirs:      app, src
-  other-modules:       Day01
+  other-modules:       Day01, Day02
   build-depends:       base >= 4.14 && < 5,
                           bytestring,
                           containers,
