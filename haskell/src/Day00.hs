@@ -1,4 +1,4 @@
-module Day01 where
+module Day00 where
 
 import System.IO (readFile)
 

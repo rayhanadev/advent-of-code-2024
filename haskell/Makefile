@@ -31,6 +31,7 @@ scaffold:
 	cp $(SRC_TEMPLATE) $(NEW_SRC_FILE)
 
 	sed -i "s/Day 00/Day $(PADDED_DAY)/g" $(NEW_SRC_FILE)
+	sed -i "s/Day00/Day$(PADDED_DAY)/g" $(NEW_SRC_FILE)
 	sed -i "s/day00/day$(PADDED_DAY)/g" $(NEW_SRC_FILE)
 
 	touch $(NEW_INPUT_FILE)
