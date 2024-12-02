@@ -13,7 +13,7 @@ make run DAY=<day>
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
 | [Day 1](src/Day01.hs) | 🌟 | 🌟 |
-| Day 2 | | |
+| [Day 2](src/Day02.hs) | 🌟 | 🌟 |
 | Day 3 | | |
 | Day 4 | | |
 | Day 5 | | |
